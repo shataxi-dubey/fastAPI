@@ -4,8 +4,10 @@ I created the PR
 Merged the PR in main branch
 but my local main branch is not updated
 
-now in this branch I am creating the file git-learning.txt. I will push this file.
-I will stash this file from this branch.
+now in this branch I am creating the file git-learning.txt. I will push this file. I will create a PR and merge it in main.
+I will take the git pull in local main.
 
-I will pop this file in a new branch feature/learn-stash-conflict.
-I will create this branch from the main branch.
+Now I will again make a change in this file in feature/fastapi-forms-heaader-jwt. I will create a PR and merge it in main
+But i Will not take the pull in local main.
+
+
