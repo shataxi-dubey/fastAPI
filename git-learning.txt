@@ -10,4 +10,5 @@ I will take the git pull in local main.
 Now I will again make a change in this file in feature/fastapi-forms-heaader-jwt. I will create a PR and merge it in main
 But i Will not take the pull in local main.
 
-
+I will switch to main and create a new branch feature/learn-stash-conflict. It will have the same git-learning.txt file.
+I will make changes in the file in that branch and then push it.
