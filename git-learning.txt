@@ -1,0 +1,11 @@
+I have created a branch feature/fastapi-forms-heaader-jwt.
+I have pushed all the changes in this branch
+I created the PR
+Merged the PR in main branch
+but my local main branch is not updated
+
+now in this branch I am creating the file git-learning.txt. I will push this file.
+I will stash this file from this branch.
+
+I will pop this file in a new branch feature/learn-stash-conflict.
+I will create this branch from the main branch.
