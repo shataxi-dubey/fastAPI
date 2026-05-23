@@ -1,0 +1,11 @@
+Cross Origin Resource Sharing
+
+
+When frontend and backend are on different origins then a request from frontend to a backend on a different 
+host has to be validated. 
+
+Using CORS, a list of origins can be created that allow frontend origins to send requests to backend.
+
+
+Origin is the combination of http protocol, domain name and port number. 
+If any combination of them is varying the origin changes.

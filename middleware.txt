@@ -1,0 +1,3 @@
+Middlewares:-
+
+These are functions that are run before a request is sent to a path operation and before a repsonse is sent after path operation
